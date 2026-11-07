@@ -45,14 +45,14 @@ Oct 5, 2026 · @Michael
 
 持续跟踪用 LWN 和 Cloudflare 两个就够，其余按主题查。
 
-| 博客 | 主题 | 推荐入口 |
-| --- | --- | --- |
-| LWN.net | 内核网络子系统的变更与设计讨论 | 按关键词搜：XDP、page\_pool、nexthop objects、BIG TCP、devmem TCP |
-| [Cloudflare 博客](https://blog.cloudflare.com/how-to-receive-a-million-packets) | 生产环境中的收包性能、内核网络调优与故障分析 | How to receive a million packets per second；How to drop 10 million packets per second（对比 iptables、tc、XDP 各层丢包的代价） |
-| [Vincent Bernat](https://vincent.bernat.ch/en/blog/2017-vxlan-bgp-evpn) | Linux 上的 VXLAN、EVPN、路由实现 | 上节已列的 EVPN 文及 VXLAN & Linux |
-| Brendan Gregg 的博客 | 网络相关的追踪与性能工具 | 网络章节的 bpftrace/BCC 工具说明 |
-| Arthur Chiao 的博客（arthurchiao.art） | 中文；Packagecloud 收发包长文的译注版，及 Cilium、eBPF 系列 | 适合与英文原文对照，速度更快 |
-| netdev 邮件列表（lore.kernel.org/netdev） | 网络子系统补丁与讨论的一手来源 | 不需要通读，查某个特性的来龙去脉时用 |
+| 博客                                                                            | 主题                                         | 推荐入口                                                                                                              |
+| ----------------------------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| LWN.net                                                                       | 内核网络子系统的变更与设计讨论                            | 按关键词搜：XDP、page\_pool、nexthop objects、BIG TCP、devmem TCP                                                           |
+| [Cloudflare 博客](https://blog.cloudflare.com/how-to-receive-a-million-packets) | 生产环境中的收包性能、内核网络调优与故障分析                     | How to receive a million packets per second；How to drop 10 million packets per second（对比 iptables、tc、XDP 各层丢包的代价） |
+| [Vincent Bernat](https://vincent.bernat.ch/en/blog/2017-vxlan-bgp-evpn)       | Linux 上的 VXLAN、EVPN、路由实现                   | 上节已列的 EVPN 文及 VXLAN & Linux                                                                                       |
+| Brendan Gregg 的博客                                                             | 网络相关的追踪与性能工具                               | 网络章节的 bpftrace/BCC 工具说明                                                                                           |
+| Arthur Chiao 的博客（arthurchiao.art）                                             | 中文；Packagecloud 收发包长文的译注版，及 Cilium、eBPF 系列 | 适合与英文原文对照，速度更快                                                                                                    |
+| netdev 邮件列表（lore.kernel.org/netdev）                                           | 网络子系统补丁与讨论的一手来源                            | 不需要通读，查某个特性的来龙去脉时用                                                                                                |
 
 ## 视频
 
