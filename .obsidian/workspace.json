@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Linux 网络学习清单.md",
+                "file": "Clippings/Low Latency Optimization Understanding Huge Pages (Part 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux 网络学习清单"
+              "title": "Low Latency Optimization Understanding Huge Pages (Part 1)"
             }
           }
         ],
@@ -247,10 +247,14 @@
   },
   "active": "1072468ecdd53e08",
   "lastOpenFiles": [
+    "Clippings/Low Latency Optimization Using Huge Pages on Linux (Part 2).md",
+    "Clippings/Low Latency Optimization Understanding Huge Pages (Part 1).md",
+    "linux/Linux 网络学习清单.md",
+    "Clippings",
+    "web-clipper",
     "linux/netlink/Netlink ABC.md",
     "linux/Assessment 1 - Packet RX or TX Path Fundamentals.md",
     "linux/netlink",
-    "linux/Linux 网络学习清单.md",
     "tools/docker/I have one docker image, it can run on Mac, Linux, and Windows. Why?.md",
     "tools/How to create a desktop entry in Debian?.md",
     "tools/docker",
@@ -278,9 +282,6 @@
     "tools/How to split a big pdf file in Linux?.md",
     "tools",
     "network",
-    "sonic",
-    "cpp/best time buy or sell stock.md",
-    "search",
-    "cpp/Unordered_map.md"
+    "cpp/best time buy or sell stock.md"
   ]
 }
