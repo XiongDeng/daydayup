@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Low Latency Optimization Understanding Huge Pages (Part 1).md",
+                "file": "linux/low latency/Optimizing RHEL 8 for Real Time for low latency operation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Low Latency Optimization Understanding Huge Pages (Part 1)"
+              "title": "Optimizing RHEL 8 for Real Time for low latency operation"
             }
           }
         ],
@@ -247,8 +247,10 @@
   },
   "active": "1072468ecdd53e08",
   "lastOpenFiles": [
-    "Clippings/Low Latency Optimization Using Huge Pages on Linux (Part 2).md",
     "Clippings/Low Latency Optimization Understanding Huge Pages (Part 1).md",
+    "linux/low latency/Optimizing RHEL 8 for Real Time for low latency operation.md",
+    "linux/low latency",
+    "Clippings/Low Latency Optimization Using Huge Pages on Linux (Part 2).md",
     "linux/Linux 网络学习清单.md",
     "Clippings",
     "web-clipper",
@@ -280,8 +282,6 @@
     "cpp/Anonymous namespace.md",
     "tools/how to makes systemd keep your user's services running even when you aren't logged in..md",
     "tools/How to split a big pdf file in Linux?.md",
-    "tools",
-    "network",
-    "cpp/best time buy or sell stock.md"
+    "tools"
   ]
 }
