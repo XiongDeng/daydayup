@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/low latency/Optimizing RHEL 8 for Real Time for low latency operation.md",
+                "file": "misc/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimizing RHEL 8 for Real Time for low latency operation"
+              "title": "Untitled"
             }
           }
         ],
@@ -247,8 +247,13 @@
   },
   "active": "1072468ecdd53e08",
   "lastOpenFiles": [
-    "Clippings/Low Latency Optimization Understanding Huge Pages (Part 1).md",
+    "Pasted image 20261121185435.png",
+    "Pasted image 20261121185340.png",
+    "misc/temporary board.md",
+    "misc/Untitled.md",
     "linux/low latency/Optimizing RHEL 8 for Real Time for low latency operation.md",
+    "miscs",
+    "Clippings/Low Latency Optimization Understanding Huge Pages (Part 1).md",
     "linux/low latency",
     "Clippings/Low Latency Optimization Using Huge Pages on Linux (Part 2).md",
     "linux/Linux 网络学习清单.md",
@@ -268,7 +273,6 @@
     "sonic/lab.md",
     "network/Linux NetDev.md",
     "network/Learning path recommended by gemini.md",
-    "misc/temporary board.md",
     "linux/Linux privilege model.md",
     "linux/Coding in linux should know.md",
     "sonic/Apple SONiC preparation.md",
@@ -279,9 +283,6 @@
     "misc",
     "meta",
     "linux",
-    "cpp/Anonymous namespace.md",
-    "tools/how to makes systemd keep your user's services running even when you aren't logged in..md",
-    "tools/How to split a big pdf file in Linux?.md",
-    "tools"
+    "cpp/Anonymous namespace.md"
   ]
 }
